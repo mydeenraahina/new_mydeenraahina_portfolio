@@ -173,7 +173,7 @@ with col1:
     st.markdown('<div class="paragraph">🎯 Data-driven, AI-focused, and design-conscious — I build intelligent apps that solve real-world problems using machine learning, prompt engineering, and beautiful code.</div>', unsafe_allow_html=True)
 
 with col2:
-    st.image('image.jpg', width=400)
+    st.image('image.png', width=400)
 
 # Content section
 col1, col2 = st.columns(2)
