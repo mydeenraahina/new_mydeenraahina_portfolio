@@ -159,16 +159,16 @@ with col1:
     time.sleep(1.2)
 
     st.markdown('<div class="paragraph">🚀 AI & ML Engineering</div>', unsafe_allow_html=True)
-    time.sleep(1.2)
+  
 
     st.markdown('<div class="paragraph">⚡ Prompt Engineering</div>', unsafe_allow_html=True)
-    time.sleep(1.2)
+
 
     st.markdown('<div class="paragraph">💡 Data Engineering</div>', unsafe_allow_html=True)
-    time.sleep(1.2)
+  
 
     st.markdown('<div class="paragraph">💻 Python Full Stack Development</div>', unsafe_allow_html=True)
-    time.sleep(1.2)
+  
 
     st.markdown('<div class="paragraph">🎯 Data-driven, AI-focused, and design-conscious — I build intelligent apps that solve real-world problems using machine learning, prompt engineering, and beautiful code.</div>', unsafe_allow_html=True)
 
@@ -213,8 +213,8 @@ with col2:
 
     with st.expander("🌐 Find Me Online"):
         st.markdown("""<div class="section">
-            🔗 <a href="https://www.linkedin.com/in/mydeenraahina" target="_blank">LinkedIn</a><br>
-            🧠 <a href="https://github.com/mydeenraahina" target="_blank">GitHub</a><br>
-            ✍️ <a href="https://medium.com/@raahinamydeen" target="_blank">Medium</a>
+            🔗 <a href="https://www.linkedin.com/in/mydeenraahina" target="_blank">LinkedIn</a> – Connect professionally<br>
+            🧠 <a href="https://github.com/mydeenraahina" target="_blank">GitHub</a>    – View my projects and code<br>
+            ✍️ <a href="https://medium.com/@raahinamydeen" target="_blank">Medium</a> -Read my blogs on Data & AI
         </div>""", unsafe_allow_html=True)
 
